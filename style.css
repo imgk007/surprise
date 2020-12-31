@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 0;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#chip {
+  width:20vh;
+  color: grey;
+  background-color: blue;
+}
+
+
+#boom {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  
+}
